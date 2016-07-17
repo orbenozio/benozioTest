@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GIT master");
+            Console.WriteLine("Hello GIT from fromMaster");
             Console.ReadLine();
         }
     }
